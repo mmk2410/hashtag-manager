@@ -24,7 +24,10 @@
       </v-card-title>
       <v-card-text>
         <p>
-          Documentation about the file format will be published soon.
+          Documentation about the file format will be published soon. In the meantime you can have a look at the
+          <a target="blank" href="https://git.mmk2410.org/mmk2410/hashtag-manager/src/branch/main/resources/dummy.json">
+            dummy hashtag data file
+          </a>.
         </p>
         <p class="mt-3">
           <strong>Warning:</strong>
