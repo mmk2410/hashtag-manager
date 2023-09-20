@@ -1,0 +1,92 @@
+[
+  {
+    "name": "General",
+    "isPlatform": false,
+    "categories": [
+      {
+        "name": "Category 1",
+        "hashtags": [
+          "#a",
+          "#b",
+          "#c"
+        ]
+      },
+      {
+        "name": "Category 2",
+        "hashtags": [
+          "#d",
+          "#e",
+          "#f"
+        ]
+      },
+      {
+        "name": "Category 3",
+        "hashtags": [
+          "#g",
+          "#h",
+          "#i"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Platform A",
+    "isPlatform": true,
+    "categories": [
+      {
+        "name": "Category 1",
+        "hashtags": [
+          "#a",
+          "#b",
+          "#c"
+        ]
+      },
+      {
+        "name": "Category 2",
+        "hashtags": [
+          "#d",
+          "#e",
+          "#f"
+        ]
+      },
+      {
+        "name": "Category 3",
+        "hashtags": [
+          "#g",
+          "#h",
+          "#i"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Platform B",
+    "isPlatform": true,
+    "categories": [
+      {
+        "name": "Category 1",
+        "hashtags": [
+          "#a",
+          "#b",
+          "#c"
+        ]
+      },
+      {
+        "name": "Category 2",
+        "hashtags": [
+          "#d",
+          "#e",
+          "#f"
+        ]
+      },
+      {
+        "name": "Category 3",
+        "hashtags": [
+          "#g",
+          "#h",
+          "#i"
+        ]
+      }
+    ]
+  }
+]
